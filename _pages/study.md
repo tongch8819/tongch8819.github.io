@@ -11,6 +11,19 @@ redirect_from:
 
 This is a brief list of high-quality online courses after my studying. And I recommend them to anyone who is interested in Computer Science.
 
+
+Reinforcement Learning (Stanford)
+===
+
++ Stanford 234
++ [course website](https://web.stanford.edu/class/cs234/modules.html)
+
+Machine Learning (NYU)
+=====
+
++ NYU-DS-GA-1003
++ [course website](https://davidrosenberg.github.io/ml2019/)
+
 CS-APP (CMU)
 =====
 
