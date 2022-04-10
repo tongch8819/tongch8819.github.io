@@ -64,6 +64,14 @@ Institute: ISCAS – Institute of Software Chinese Academy of Sciences<br>
 + Read papers about Fuzzing test, especially for grey-box fuzzing technique from USENIX, NDSS, Okaland;
 + Design, run and analyze fuzzing tasks for UNIX software, e.x. libming, nasm, etc;
 
+**Reinforcement Learning on Resource Allocation Problem**<br>
+Supervisor: Hang Dong<br>
+Oct. 2021 – Present<br>
+Institute: Micorsoft Research Asia<br>
+
++ Analyzed the Microsoft-Azure trace data;
++ Proposed double-action deep reinforcement learning framework to fasten the convergence rate of DRL algorithms;
++ Constructed robust cloud system simulator for interaction during reinforcement learning training process;
 
 Work Experience
 =====
@@ -113,9 +121,12 @@ Practical Skills
 Awards and Honors
 =====
 
-+ Contemporary undergraduate mathematical contest of modeling (first prize)
-+ MCM/ICM meritorious (first prize)
-+ The Ninth Chinese Mathematics Competitions (third prize)
-+ The Tenth Chinese Mathematics Competitions (third prize)
-+ 2017, 2018, 2019 second prize of scholarship
++ Contemporary undergraduate mathematical contest of modeling 
+<!-- + MCM/ICM meritorious (first prize) -->
++ MCM/ICM meritorious 
+<!-- + The Ninth Chinese Mathematics Competitions (third prize) -->
++ The Ninth Chinese Mathematics Competitions
+<!-- + The Tenth Chinese Mathematics Competitions (third prize) -->
++ The Tenth Chinese Mathematics Competitions 
++ 2017, 2018, 2019 JINGSHI scholarship
 

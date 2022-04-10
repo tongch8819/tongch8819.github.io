@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Cheng / Siren"
+title                    : "Tong Cheng"
 title_separator          : "-"
 name                     : &name "Tong Cheng"
 description              : &description "MS Student in Beijing Normal University"

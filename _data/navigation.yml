@@ -18,13 +18,20 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
+  - title: "About"
+    url: /about/
+
   - title: "CV"
     url: /cv/
     
   # - title: "Guide"
     # url: /markdown/
 
+  - title: "Research"
+    url: /research/
+
   - title: "Study"
     url: /study/
+
 
   
