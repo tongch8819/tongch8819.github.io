@@ -121,6 +121,7 @@ Practical Skills
 Awards and Honors
 =====
 
++ 2021 XUEYE scholarship
 + Contemporary undergraduate mathematical contest of modeling 
 <!-- + MCM/ICM meritorious (first prize) -->
 + MCM/ICM meritorious 
@@ -129,4 +130,3 @@ Awards and Honors
 <!-- + The Tenth Chinese Mathematics Competitions (third prize) -->
 + The Tenth Chinese Mathematics Competitions 
 + 2017, 2018, 2019 JINGSHI scholarship
-
