@@ -25,8 +25,12 @@ Jan. 2019 - May. 2019<br>
 Exchange Student<br>
 
 Beijing Normal University<br>
-Sep. 2021 - Present<br>
+Sep. 2021 - Jun. 2023 (Early Graduation with Honor)<br>
 Master of Computational Mathematics
+
+Nanyang Technological University<br>
+Aug. 2023 - Present<br>
+Doctor of Philosophy (School of Computer Science and Engineering)
 
 
 Research Experience
