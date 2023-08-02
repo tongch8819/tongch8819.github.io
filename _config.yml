@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tong Cheng"
 title_separator          : "-"
 name                     : &name "Tong Cheng"
-description              : &description "MS Student in Beijing Normal University"
+description              : &description "PhD student in Nanyang Technological University"
 url                      : https://tongch8819.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tongcheng8819/tongcheng8819.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tong Cheng"
   avatar           : "selfie.png"
-  bio              : "M.S. in Computational Mathematics"
-  location         : "Beijing, China"
+  bio              : "PhD in Computer Science"
+  location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "tong.cheng.8819@outlook.com"
+  email            : "tong030@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

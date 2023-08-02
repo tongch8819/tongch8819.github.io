@@ -70,7 +70,7 @@ Institute: ISCAS – Institute of Software Chinese Academy of Sciences<br>
 
 **Reinforcement Learning on Resource Allocation Problem**<br>
 Supervisor: Hang Dong<br>
-Oct. 2021 – Present<br>
+Oct. 2021 – Apr. 2023<br>
 Institute: Micorsoft Research Asia<br>
 
 + Analyzed the Microsoft-Azure trace data;

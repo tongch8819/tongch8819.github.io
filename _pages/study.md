@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a brief list of high-quality online courses after my studying. And I recommend them to anyone who is interested in Computer Science.
+This is a brief list of high-quality online courses I have studied. And I recommend them to anyone who is interested in Computer Science.
 
 
 Reinforcement Learning (Stanford)
