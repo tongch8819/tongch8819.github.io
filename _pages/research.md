@@ -20,9 +20,9 @@ Status: accepted
 
 ## SMuCo: Reinforcement Learning for Visual Control via Sequential Multi-view Total Correlation
 
-AAAI 2024
+UAI 2024
 
-Status: under review
+Status: accepted
 
 
 
